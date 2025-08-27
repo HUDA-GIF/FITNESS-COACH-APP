@@ -1,0 +1,3 @@
+20250826110956JF8FQY,alice,john,2025-08-27,23:23,https://meet.jit.si/FitnessSession_20250826111414A9XCHS,canceled,
+20250826111604GBOOCN,alice,john,2025-08-27,22:22,https://meet.jit.si/FitnessSession_20250826111604GKZKG7,scheduled,
+202508261119472981F8,alice,smith,2025-08-26,12:00,https://meet.jit.si/FitnessSession_20250826111947NXV2G1,scheduled,
