@@ -33,9 +33,9 @@ Test Accounts
 
 I already added some sample users:
 
-Coach: huda/123
+coach: alice/123
 
-Client: smith/49s
+Client: smith/789
 
 Client: john/456
 
@@ -93,5 +93,6 @@ Add reminders for sessions
 
 Maybe turn it into a small web app one day
 _______
+
 
 Thanks for checking this out! 🙌
